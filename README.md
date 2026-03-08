@@ -6,7 +6,7 @@ Design inspired by: https://www.youtube.com/watch?v=TalusE29iqg&t=133s
 
 ## Live Website
 
-[Visit the website](https://00016277.github.io/00016277_travel_agency/)
+[Visit the website](https://lex-lexington.github.io/00016277_travel_agency-main/index.html)
 
 ## Project Structure
 
@@ -14,13 +14,13 @@ Design inspired by: https://www.youtube.com/watch?v=TalusE29iqg&t=133s
 /
 +-- index.html                  # Home page
 +-- css/
-¦   +-- styles.css              # Main stylesheet
-¦   +-- aboutus.css             # About Us styles
-¦   +-- contacts.css            # Contacts styles
-¦   +-- hotels.css              # Hotels styles
-¦   L-- tours.css               # Tours styles
+Â¦   +-- styles.css              # Main stylesheet
+Â¦   +-- aboutus.css             # About Us styles
+Â¦   +-- contacts.css            # Contacts styles
+Â¦   +-- hotels.css              # Hotels styles
+Â¦   L-- tours.css               # Tours styles
 +-- js/
-¦   L-- script.js               # Main JavaScript
+Â¦   L-- script.js               # Main JavaScript
 +-- images/                     # All project images
 L-- pages/
     +-- aboutus.html            # About Us page
@@ -30,12 +30,12 @@ L-- pages/
     +-- russia.html             # Russia tour page
     +-- wondersofvalley.html    # Wonders of Valley tour page
     +-- hotels/
-    ¦   +-- gmh.html            # Grand Mir Hotel
-    ¦   +-- hat.html            # Hotel Asia Tashkent
-    ¦   +-- hb.html             # Hotel Bek
-    ¦   +-- hit.html            # Hotel International Tashkent
-    ¦   +-- hw.html             # Hotel Wyndham
-    ¦   L-- mi.html             # Hotel Miran International
+    Â¦   +-- gmh.html            # Grand Mir Hotel
+    Â¦   +-- hat.html            # Hotel Asia Tashkent
+    Â¦   +-- hb.html             # Hotel Bek
+    Â¦   +-- hit.html            # Hotel International Tashkent
+    Â¦   +-- hw.html             # Hotel Wyndham
+    Â¦   L-- mi.html             # Hotel Miran International
     L-- tours/
         +-- tsr.html            # The Silk Road
         +-- kku.html            # Kyrgyzstan-Kazakhstan-Uzbekistan
